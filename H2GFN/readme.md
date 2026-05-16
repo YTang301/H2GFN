@@ -4,10 +4,10 @@ H2GFN is a novel homogeneous and heterogeneous graph fusion network designed to 
 
 ## Key Features
 
-*   **Graph Fusion: Seamlessly integrates information from both homogeneous and heterogeneous graphs.
-*   **Multi-perspective Representation Learning: Utilizes a masked autoencoder for robust feature extraction from multiple data perspectives.
-*   **Bilateral Residual Graph Convolutions: Enhances information flow and addresses potential over-smoothing issues in deep graph networks.
-*   **Gating Multi-scale Topology Learning: Dynamically fuses learned representations with the heterogeneous miRNA-disease association network.
+*   Graph Fusion: Seamlessly integrates information from both homogeneous and heterogeneous graphs.
+*   Multi-perspective Representation Learning: Utilizes a masked autoencoder for robust feature extraction from multiple data perspectives.
+*   Bilateral Residual Graph Convolutions: Enhances information flow and addresses potential over-smoothing issues in deep graph networks.
+*   Gating Multi-scale Topology Learning: Dynamically fuses learned representations with the heterogeneous miRNA-disease association network.
 
 ## Our system meets the following requirements:
 *   Python Version==3.12.4
